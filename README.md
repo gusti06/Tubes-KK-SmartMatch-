@@ -30,7 +30,7 @@ SmartMatch adalah aplikasi rekomendasi laptop berbasis **Streamlit** yang mengga
 Jalankan perintah berikut di folder project:
 
 ```bash
-python -m pip install streamlit numpy matplotlib
+python -m pip install -r requirements.txt
 ```
 
 ## Menjalankan Aplikasi
